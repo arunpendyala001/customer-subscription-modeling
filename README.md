@@ -2,8 +2,6 @@
 
 This project applies machine learning techniques to the **UCI Bank Marketing dataset**, which contains information from a Portuguese bank’s direct marketing campaigns. The main goal is to predict whether a client will subscribe to a long-term deposit based on demographic, campaign, and economic features.
 
-[Link to notebook](prompt_III.ipynb)
-
 ---
 
 ## 📊 Dataset
@@ -46,3 +44,12 @@ The following steps were performed:
 
 📌 **Business Insight:**  
 Accuracy alone is misleading due to class imbalance. Models like Logistic Regression (with class weighting) improve recall and help identify potential subscribers. For the bank, recall and F1 are more meaningful because the business goal is to capture as many subscribers as possible.
+
+---
+
+[Link to notebook](prompt_III.ipynb)
+
+---
+## Contact
+   Arun Sai Pendyala
+   arunpendyala01@gmail.com
